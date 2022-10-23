@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "05.01.2003"; // Дата рождения
-var fullname = "Гордєєв Святослав Сергійович" // ФИО
+var birthdate = "11.02.2004"; // Дата рождения
+var fullname = "Луканюк Вероніка Василівна" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
