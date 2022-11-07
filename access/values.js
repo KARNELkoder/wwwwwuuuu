@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "15.02.2003"; // Дата рождения
-var fullname = "Омельченко Артем Олександрович" // ФИО
+var birthdate = "19.03.2005"; // Дата рождения
+var fullname = "Ткаченко Мария Ивановна" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
